@@ -1,0 +1,170 @@
+@font-face {
+  font-family: chris;
+  src: url('../public/assets/fonts/FuturaLT-HeavyOblique.ttf');
+}
+*{
+  font-family: chris;
+}
+
+body {
+  /* margin-bottom: 27.450rem; */
+  background-image: radial-gradient(black 69%, rgb(105, 248, 65));
+  padding-bottom: 350px;
+}
+/* 
+#onepost{
+
+} */
+
+
+/* .projects{
+  display: grid;
+  justify-content: safe;
+  grid-template-columns: auto auto auto;
+  align-items: center;
+  color: rgb(129, 213, 201);
+  padding-bottom: 1.222rem;
+  letter-spacing: 0.102rem;
+  width: 33%;
+} */
+
+#link1,
+#link2 {
+  margin: 0.223rem;
+  color:rgba(4, 255, 92, 0.603);
+}
+
+#link2 {
+  margin-bottom: 2.5rem;
+}
+
+#link1:hover,
+#link2:hover {
+  transition: 0.434s;
+  color:rgb(249, 229, 202)
+}
+.projDisplay {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#projTitle{
+  color: antiquewhite;
+  margin-bottom: 0.111rem;
+}
+
+.port-title,
+.bio-title,
+.nav-el,
+.profile-pic{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+  color:antiquewhite
+}
+.nav-el {
+  color: white;
+  background-color: transparent;
+  margin-bottom: 2rem;
+  margin-right: 10.222rem;
+  margin-left: 10.222rem;
+}
+
+.profile-pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-radius: 52%;
+}
+
+.projDisplay img {
+  border: 1px solid #08e66143;
+  padding: 5px;
+  width: 175px;
+}
+
+.profile-pic img {
+  border: 1px solid #0861e600;
+  border-radius: 52%;
+  padding: 5px;
+  width: 175px;
+}
+
+.projects a {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects h3 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.bio-text{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color:rgb(0, 0, 0);
+  background-size: cover;
+  color:antiquewhite
+}
+
+.header-txt {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.4rem;
+  color: black;
+}
+
+.header-txt1{
+  margin-left: 0.993rem;
+}
+
+.bigfeet{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  color: rgba(4, 255, 92, 0.603);
+}
+
+.nav-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+#navbar a {
+  margin-right: 1.775rem;
+  color: white;
+  margin-left: 10rem;
+  font-family: balanced;
+}
+
+.profile-pic{
+  display: grid;
+}
+
+#evil-twin,
+.paddington{
+  margin-top: auto;
+  margin-bottom: 21rem;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
