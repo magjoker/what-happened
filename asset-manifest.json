@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/what-happened/static/css/main.02232501.css",
+    "main.js": "/what-happened/static/js/main.8322550e.js",
+    "static/js/787.d838cbee.chunk.js": "/what-happened/static/js/787.d838cbee.chunk.js",
+    "static/media/proj5.png": "/what-happened/static/media/proj5.b47c2007117648db1991.png",
+    "static/media/profile-img.jpg": "/what-happened/static/media/profile-img.0e08f81b5e54fc1c7a82.jpg",
+    "static/media/proj2.png": "/what-happened/static/media/proj2.cbd85870fd625b425610.png",
+    "static/media/proj.png": "/what-happened/static/media/proj.a4fe753ca1a6658ab9c2.png",
+    "static/media/proj1.png": "/what-happened/static/media/proj1.5830d7399f460bbc4f83.png",
+    "static/media/proj4.png": "/what-happened/static/media/proj4.d06c1e1b8280431ff65f.png",
+    "static/media/proj3.png": "/what-happened/static/media/proj3.fcdf20f97e57f502b9de.png",
+    "static/media/FuturaLT-HeavyOblique.ttf": "/what-happened/static/media/FuturaLT-HeavyOblique.077da086a49732631243.ttf",
+    "index.html": "/what-happened/index.html",
+    "main.02232501.css.map": "/what-happened/static/css/main.02232501.css.map",
+    "main.8322550e.js.map": "/what-happened/static/js/main.8322550e.js.map",
+    "787.d838cbee.chunk.js.map": "/what-happened/static/js/787.d838cbee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02232501.css",
+    "static/js/main.8322550e.js"
+  ]
+}
