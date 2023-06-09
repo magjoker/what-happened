@@ -1,6 +1,7 @@
 # what-happened
 react portfolio
-<img width="1407" alt="Screen Shot 2023-06-08 at 3 50 36 PM" src="https://github.com/magjoker/what-happened/assets/118233640/2d00a11e-4cce-42fc-a2fc-5127f6a1adb6">
+![Screen Shot 2023-06-09 at 2 40 03 AM](https://github.com/magjoker/what-happened/assets/118233640/bb5258f6-9d65-45b2-b964-caaf6e5eacac)
+
 ## Description
 This application was built to showcase my best projects. <br>
 It lets potential employers know what I can do. <br>
