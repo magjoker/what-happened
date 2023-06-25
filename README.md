@@ -6,6 +6,6 @@ react portfolio
 This application was built to showcase my best projects. <br>
 It lets potential employers know what I can do. <br>
 It is heavily inspired from my old portfolio from the beginning of the Course. <br>
-You can check it out here https://magjoker.github.io/what-happened/
+You can check it out here https://magjoker.github.io/what-happened/  <br>
 https://github.com/magjoker/hot-wind-blows is the OG repo for this project. <br>
 I switched to a new repo because I thought I ruined that repo. 
