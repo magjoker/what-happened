@@ -8,12 +8,10 @@ function Bio() {
             <h2 className="bio-title">Jared Aragon</h2>
             <img class="profile-pic" src={Picture} alt="Tired man in front of mountain and pink sky" />
             <h3 className="bio-text">About Me</h3>
-            <p className="bio-text">
-                I am a Full Stack Web Developer. 
-                These are Projects I have worked on.
-            </p>
+            <p className="bio-text">Full Stack Web Developer.</p>
+            <p className="bio-text">These are Projects I have worked on.</p>
             <p className="bio-text">The Languages and technologies I am proficient in are</p>
-            <p className="bio-text"> HTML, CSS, JavaScript, Git, Jest, Inquirer, React, MongoDB, and Spanish.</p>
+            <p className="bio-text"> HTML5, CSS3, JavaScript, MongoDB, Express.js, React, Node.js, and Git.</p>
             <p> Stay tuned for upcoming projects! Please contact me if I can be of assistance to you or your organization. </p>
             <ul>
                 <li className="bio-text">Email: jaredaragon7@gmail.com</li>
